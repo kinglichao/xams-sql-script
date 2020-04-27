@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javafx_demo/javafx_demo.iml" filepath="$PROJECT_DIR$/../javafx_demo/javafx_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xams-sql-script.iml" filepath="$PROJECT_DIR$/xams-sql-script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xams-sql-script-dev/xams-sql-script-dev.iml" filepath="$PROJECT_DIR$/../xams-sql-script-dev/xams-sql-script-dev.iml" />
+    </modules>
+  </component>
+</project>
